@@ -27,5 +27,5 @@ Kode sumber yang digunakan dalam presentasi dapat ditemukan di  `demo.ipynb`. Be
 1. Pastikan Anda telah menginstal Python dan library yang diperlukan seperti `pandas`, `numpy`, dan `scikit-learn`.
 2. Clone repositori ini:
    ```bash
-   git clone https://github.com/Ardavaa/feature-engineering-data-preprocessing.git
+   git clone https://github.com/Ardavaa/GDG-feature-eng-data-prep.git
 3. Masuk ke folder code/ dan jalankan script Python yang diinginkan.
